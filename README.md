@@ -3,4 +3,6 @@
 ## 硬件项目用的是vsc+pio+arduino
 
 
-![image](https://github.com/marktion/lamp-on-ESP8266/blob/main/9218027298a594a2b296e83ff6d86ac.jpg)
+![image](https://github.com/marktion/lamp-on-ESP8266/blob/main/image/9218027298a594a2b296e83ff6d86ac.jpg)
+系统架构
+![image](https://github.com/marktion/lamp-on-ESP8266/blob/main/image/系统架构.jpg)
